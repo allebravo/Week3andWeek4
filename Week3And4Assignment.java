@@ -189,6 +189,6 @@ public class Week3And4Assignment {
 
 		//13. method below
 		public static int annualSalary(int hourlyRate, int hoursWorked, int numberOfWeeks ) {
-			return hourlyRate * hoursWorked * numberOfWeeks;
+			return hourlyRate * hoursWorked * numberOfWeeks; 
 		}
 }// end of class
